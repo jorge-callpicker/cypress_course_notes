@@ -1,0 +1,3 @@
+#Ejecutar Cypress
+$ node_modules/.bin/cypress open
+
